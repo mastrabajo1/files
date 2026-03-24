@@ -1,0 +1,119 @@
+{
+    "content": {
+        "languages": {
+            "current": "es",
+            "list": [
+                "es"
+            ]
+        },
+        "settings": {
+            "main": {
+                "content": {
+                    "productname": null,
+                    "copyright": null,
+                    "footer_description": null,
+                    "terms_and_conditions": null,
+                    "responsible_gaming": null,
+                    "about_us": null,
+                    "news": null,
+                    "antispam_policy": null,
+                    "refund_policy": null,
+                    "kyc_and_aml": null
+                },
+                "meta_tags": {
+                    "keywords": null,
+                    "h1": null,
+                    "description": null
+                },
+                "helpers": {
+                    "a2hs": null,
+                    "virtualKeyboard": null,
+                    "fullscreen": null,
+                    "pleaseRotate": null,
+                    "sound ": null
+                },
+                "download_app": {
+                    "ios": null,
+                    "android": null,
+                    "windows": null
+                }
+            },
+            "additional": {
+                "content": {
+                    "productname": null,
+                    "copyright": null,
+                    "footer_description": null,
+                    "terms_and_conditions": null,
+                    "responsible_gaming": null,
+                    "about_us": null,
+                    "news": null,
+                    "antispam_policy": null,
+                    "refund_policy": null,
+                    "kyc_and_aml": null
+                },
+                "meta_tags": {
+                    "keywords": null,
+                    "h1": null,
+                    "description": null
+                },
+                "helpers": {
+                    "a2hs": null,
+                    "virtualKeyboard": null,
+                    "fullscreen": null,
+                    "pleaseRotate": null,
+                    "sound ": null
+                },
+                "download_app": {
+                    "ios": null,
+                    "android": null,
+                    "windows": null
+                }
+            }
+        },
+        "additional_user": {
+            "links": []
+        },
+        "system": {
+            "registration": {
+                "email": {
+                    "title": "Email",
+                    "type": "string",
+                    "value": ""
+                },
+                "phone": {
+                    "title": "Phone",
+                    "type": "string",
+                    "value": ""
+                },
+                "name": {
+                    "title": "Name",
+                    "type": "string",
+                    "value": ""
+                },
+                "currencies": {
+                    "title": "Currency",
+                    "type": "select",
+                    "options": [
+                        "ARS"
+                    ]
+                },
+                "promocode": {
+                    "title": "Name",
+                    "type": "string",
+                    "value": ""
+                },
+                "is_adult": {
+                    "title": {
+                        "text": "I turned 18, I read and accepted the general conditions",
+                        "link": "Read here",
+                        "type": "is_adult"
+                    },
+                    "type": "boolean",
+                    "value": false
+                }
+            }
+    },
+    "status": "success",
+    "datetime": "2026-03-24 02:15:50",
+    "microtime": 0.019220829010009766
+}

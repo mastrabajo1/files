@@ -72,47 +72,8 @@
         },
         "additional_user": {
             "links": []
-        },
-        "system": {
-            "registration": {
-                "email": {
-                    "title": "Email",
-                    "type": "string",
-                    "value": ""
-                },
-                "phone": {
-                    "title": "Phone",
-                    "type": "string",
-                    "value": ""
-                },
-                "name": {
-                    "title": "Name",
-                    "type": "string",
-                    "value": ""
-                },
-                "currencies": {
-                    "title": "Currency",
-                    "type": "select",
-                    "options": [
-                        "ARS"
-                    ]
-                },
-                "promocode": {
-                    "title": "Name",
-                    "type": "string",
-                    "value": ""
-                },
-                "is_adult": {
-                    "title": {
-                        "text": "I turned 18, I read and accepted the general conditions",
-                        "link": "Read here",
-                        "type": "is_adult"
-                    },
-                    "type": "boolean",
-                    "value": false
-                }
-            }
         }
+       
     },
     "status": "success",
     "datetime": "2026-03-24 02:15:50",
